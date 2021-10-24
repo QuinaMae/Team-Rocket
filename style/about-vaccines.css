@@ -1,0 +1,77 @@
+*{
+  margin: 0;
+  padding: 0;
+	font-family: Arial, Helvetica,sans-serif;
+}
+
+body{
+	color: black;
+	background: #f2f2f2;
+	line-height: 1.6;
+}
+
+.AboutV{
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	border-style: solid;
+	border-width: 10px;
+	padding: 20px;
+	border-right-color: #1f3194;
+	border-left-color: #1f3194;
+	background-color: #537895;
+	background-image: linear-gradient(315deg, #537895 0%, #09203f 74%);
+}
+
+.container{
+	display: grid;
+	height: 80vh;
+	grid-template-columns: 1.2fr 1fr 1fr 1fr;
+	grid-template-rows: 1.5fr 1.2fr;
+	font-size: 17px;
+	padding: 35px;
+	text-align: justify-all;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.brief{
+	padding: 5px 5px;
+	text-align: center;
+}
+
+#main, #content1, #content2, #content3 p{
+	text-align: justify;
+	margin-left: 20px;
+	margin-right: 20px
+}
+
+#vaccination-image{
+	width: 100%;
+	height: 60%;
+}
+
+h3{
+  font-family: Arial, Helvetica,sans-serif;
+	text-transform: uppercase;
+	font-weight: bolder;
+	font-size: 30px;
+}
+
+.procedure-section{
+	padding: 20px;
+	text-align: center;
+}
+
+.benefits-title{
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.registration-section ol li{
+	margin-left: 40px;
+}
+
+.vaccination_perk img{
+	text-align: center;
+}
