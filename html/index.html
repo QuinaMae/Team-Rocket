@@ -1,4 +1,3 @@
-<!--This is the landing page which it contains posts or announcements, events, and downloadable resources -->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -17,11 +16,13 @@
 	<link rel="stylesheet" href="../style/navbar.css">
 	<link rel="icon" href="../images/Others/Logo.png" type="image/png">
 
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script> 
+</head>
 <body>
 	<header>
 			<nav>
 	  			<div class="team-name">Team Rocket</div>
-	  			<ul id="menu-bar">
+	  			<ul class="menu-bar" id="menu-bar">
 	  				<li class="menu-item"><a href="index.html"> Home </a></li>
 	  				<li class="menu-item"><a href="about-covid19.html">About Covid-19</a></li>
 	  				<li class="menu-item"><a href="vaccine.html">Vaccination </a></li>
@@ -31,16 +32,14 @@
 	  			</ul>
 	  	</nav>
 	</header>
-	<div id = "covidstats">
+
 		<h2> Statistics </h2>
 		<section id = "covid-stats">
 				 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 				 <div class="elfsight-app-a3f86c37-9334-4c44-8357-9a41e63bd118"></div>
 		</section>
-	</div>
 
 		<!-- This is where announcements are uploaded -->
-		<div class="row">
 			<div class="left-column">
 					<h2> Announcements </h2>
 							<div class="card">
@@ -151,29 +150,22 @@
 													The World Health Organization recently confirmed that the Delta is now the dominant variant in the country with community transmission now occurring in various parts of the country.<br><br>
 													Magalong who waged an early preparation in the city for a worst-case scenario said the city has been keeping at its contingency action plan which includes border restrictions, expansion of isolation and quarantine facilities and building buffer stocks of medicines, oxygen and other hospital essentials. – Aileen P. Refuerzo </p>
 							</div>
-								<br><br>
-				<!-- </div> -->
+					
+								<h2>Events</h2>
+									<div class="card">
+										<p> No events yet </p>
+									</div>
+
+								<h2>Downloadables</h2>
+									<div class="card">
+										<p><a href="https://www.gov.nt.ca/covid-19/sites/covid/files/resources/covid-19-self-monitoring-form.pdf">Self-Monitoring Sheet (Option 1)</a></p>
+										<p><a href="https://asaa.org/wp-content/uploads/COVID-19-Monitoring-Form.pdf">Self-Monitoring Sheet (Option 2)</a></p>
+										<p><a href="https://www.deschutes.org/sites/default/files/fileattachments/health_services/page/13161/charts_fillable.pdf">Self-Monitoring Sheet (Option 3)</a></p>
+			
+										<p id="disclaimer"><b>DISCLAIMER:</b> These forms were taken from the Internet.There is no need for you to download this if you are confined in a hospital as the staffs will monitor your vitals for you.</p>
+									</div>				
 			</div>
 
-			<div class="right-column">
-				 <!-- Events -->
-					<h2> Events </h2>
-			  <div class="card">
-					<p> No events yet </p>
-				</div>
-
-				 <!-- Downloadables -->
-					<h2> Downloadables </h2>
-				<div class="card">
-							<!--downloadble forms-->
-							<p><a href="https://www.gov.nt.ca/covid-19/sites/covid/files/resources/covid-19-self-monitoring-form.pdf">Self-Monitoring Sheet (Option 1)</a></p>
-							<p><a href="https://asaa.org/wp-content/uploads/COVID-19-Monitoring-Form.pdf">Self-Monitoring Sheet (Option 2)</a></p>
-							<p><a href="https://www.deschutes.org/sites/default/files/fileattachments/health_services/page/13161/charts_fillable.pdf">Self-Monitoring Sheet (Option 3)</a></p>
-
-							<p id="disclaimer"><b>DISCLAIMER:</b> These forms were taken from the Internet.There is no need for you to download this if you are confined in a hospital as the staffs will monitor your vitals for you.</p>
-				</div>
-			</div>
-		</div> <!-- end of row -->
 		<footer class="footer">
 				<p>Copyright &copy; 2021 Team Rocket</p>
 		</footer>
