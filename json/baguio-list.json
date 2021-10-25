@@ -498,6 +498,16 @@
             "Pfizer": 77,
             "Sinovac":66,
             "SputnikV": 58
+        },
+        {
+            "barangay": "temp",
+            "population": 0,
+            "AstraZeneca": 0,
+            "Janssen": 0,
+            "Moderna": 0,
+            "Pfizer": 0,
+            "Sinovac": 0,
+            "SputnikV": 00
         }
          
         
