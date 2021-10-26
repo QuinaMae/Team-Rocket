@@ -46,8 +46,8 @@ h3 {
 
 .q-a:hover{
   color: inherit;
-  border: 2px solid #407c83; /*#75c5c2*/
-  background: #fdfdff; /* white */
+  border: 2px solid black; 
+  background: #fdfdff; 
   transform: scale(1.1);
 }
 
