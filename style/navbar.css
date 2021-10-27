@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 @media screen and (max-width: 800px){
   .menu-item, .menu-bar, nav{
     width: 100%;
@@ -26,7 +27,6 @@ nav{
   color: white;
   background: rgb(0,34,54);
   background: linear-gradient(90deg, rgba(0,34,54,1) 0%, rgba(117,197,194,1) 100%);
-  /* background-color: #21618C; */
   font-family: Arial, Helvetica,sans-serif;
 }
 
@@ -63,7 +63,6 @@ nav{
 }
 
 .menu-item:hover{
-    /* color: white; */
     font-weight: bold;
 
 }
@@ -73,9 +72,7 @@ nav{
   height: 5px;
   content: "";
   position: absolute;
-  /* background-color: white; */
 }
-
 
 header{
   width: 100%;
@@ -88,16 +85,6 @@ header{
 #header-gif{
   width: 100%
 }
-
-
-/* .footer{
-  position: relative;
-  width: 100%;
-  background-color: #21618C;
-  color: white ;
-  text-align: center;
-  height: 30px;
-} */
 
 .footer{
   position: fixed;

@@ -22,14 +22,17 @@ table {
 td {
   padding: 30px;
 }
+
 h1{
   letter-spacing: 1px;
 }
+
 .official{
   padding-top: 20px;
   margin-bottom: -20px;
   font-weight: lighter;
 }
+
 .official a {
   background: transparent;
   color: white;
@@ -37,7 +40,6 @@ h1{
   text-decoration: none;
   text-align: center;
 }
-
 
 a.effect:after{
   content: '';
@@ -58,7 +60,6 @@ a.effect:hover::after{
   opacity: 1;
   transform: scale(1);
 }
-
 
 #banner {
   text-align: center;

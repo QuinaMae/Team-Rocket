@@ -17,8 +17,7 @@ h3 {
   font-size: 200%;
 }
 
-
-/*question title*/
+/*=====REFERS TO QUESTION TITLE=====*/
 .question{
   color: black;
   background: transparent;
@@ -36,7 +35,7 @@ h3 {
   }
 
 
-/*question boxes */
+/*=====REFERS TO QUESTION BOXES=====*/
 .q-a{
   color: black;
   padding: 20px;

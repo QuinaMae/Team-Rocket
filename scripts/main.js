@@ -49,7 +49,7 @@ function userOption(){
 }
 
 //This function displays information of per barangay 
-function show(displayBrgy){
+function display(displayBrgy){
     var display = document.getElementById('res');
     display.innerHTML = '<b>Barangay: </b>' + displayBrgy.options[displayBrgy.selectedIndex].text + '<br>' 
         + '<b>Population: </b>' + displayBrgy.value + '</br>';

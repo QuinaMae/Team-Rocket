@@ -15,6 +15,7 @@ h2{
   background-color: inherit;
 }
 
+/*=====DESCRIPTION ABOUT TEAM ROCET=====*/
 .team-bio{
   color: black;
   background-color:inherit;
@@ -24,7 +25,6 @@ h2{
   text-align: justify;
 
 }
-
 
 .dev-name{
   opacity: 1;
@@ -55,8 +55,7 @@ h2{
   border-radius: 50%;
 }
 
-
-
+/*=====INFORMATION ABOUT THE DEVELOPERS (IMAGE TO TEXT)=====*/
 #dev-section{
   padding: 50px;
 }

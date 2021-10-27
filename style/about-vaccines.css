@@ -39,6 +39,7 @@ body{
 	text-align: center;
 }
 
+/*=====LAYOUT FOR 'ABOUT VACCINES' SECTION=====*/
 #main, #content1, #content2, #content3 p{
 	text-align: justify;
 	margin-left: 20px;
