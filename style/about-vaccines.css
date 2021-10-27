@@ -45,6 +45,15 @@ body{
 	margin-right: 20px
 }
 
+.container1{
+	display: grid;
+	height: 50vh;
+	grid-template-columns: 1.2fr 1fr;
+	padding: 10px 35px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
 #list1, #list2{
 	text-align: justify;
 	margin-left: 20px;

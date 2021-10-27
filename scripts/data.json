@@ -1,0 +1,1303 @@
+[
+      {
+        "barangay": "Abanao-Zandueta-Kayong-Chugum-Otek (AZKCO)",
+        "population": 666,
+        "AstraZeneca": 211,
+        "Janssen": 65,
+        "Moderna": 103,
+        "Pfizer": 200,
+        "Sinovac": 35,
+        "SputnikV": 36
+      },
+      {
+        "barangay": "A. Bonifacio-Caguioa-Rimando",
+        "population": 685,
+        "AstraZeneca": 105,
+        "Janssen": 423,
+        "Moderna": 42,
+        "Pfizer": 14,
+        "Sinovac": 41,
+        "SputnikV": 52
+      },
+      {
+        "barangay": "Alfonso Tabora",
+        "population": 1524,
+        "AstraZeneca": 423,
+        "Janssen": 275,
+        "Moderna": 242,
+        "Pfizer": 123,
+        "Sinovac": 31,
+        "SputnikV": 5
+      },
+      {
+        "barangay": "Apugan-Loakan",
+        "population": 2906,
+        "AstraZeneca": 421,
+        "Janssen": 125,
+        "Moderna": 52,
+        "Pfizer": 500,
+        "Sinovac": 65,
+        "SputnikV": 59
+      },
+      {
+        "barangay": "Asin Road",
+        "population": 13823,
+        "AstraZeneca": 2000,
+        "Janssen": 536,
+        "Moderna": 5000,
+        "Pfizer": 3000,
+        "Sinovac": 2000,
+        "SputnikV": 169
+      },
+      {
+        "barangay": "Atok Trail",
+        "population": 1933,
+        "AstraZeneca": 95,
+        "Janssen": 65,
+        "Moderna": 311,
+        "Pfizer": 500,
+        "Sinovac": 96,
+        "SputnikV": 100
+      },
+      {
+        "barangay": "Bakakeng Central",
+        "population": 13092,
+        "AstraZeneca": 1235,
+        "Janssen": 689,
+        "Moderna": 462,
+        "Pfizer": 654,
+        "Sinovac": 645,
+        "SputnikV": 97
+      },
+      {
+        "barangay": "Bakakeng North",
+        "population": 10867,
+        "AstraZeneca": 3000,
+        "Janssen": 935,
+        "Moderna": 3544,
+        "Pfizer": 453,
+        "Sinovac": 753,
+        "SputnikV": 35
+      },
+      {
+        "barangay": "Happy Hollow",
+        "population": 2674,
+        "AstraZeneca": 200,
+        "Janssen": 500,
+        "Moderna": 300,
+        "Pfizer": 423,
+        "Sinovac": 11,
+        "SputnikV": 31
+      },
+      {
+        "barangay": "Balsigan",
+        "population": 2492,
+        "AstraZeneca": 231,
+        "Janssen": 111,
+        "Moderna": 321,
+        "Pfizer": 423,
+        "Sinovac": 651,
+        "SputnikV": 241
+      },
+      {
+        "barangay": "Bayan Park West",
+        "population": 1478,
+        "AstraZeneca": 111,
+        "Janssen": 241,
+        "Moderna": 427,
+        "Pfizer": 77,
+        "Sinovac": 527,
+        "SputnikV": 27
+      },
+      {
+        "barangay": "Bayan Park East",
+        "population": 1099,
+        "AstraZeneca": 25,
+        "Janssen": 25,
+        "Moderna": 57,
+        "Pfizer": 59,
+        "Sinovac": 34,
+        "SputnikV": 44
+      },
+      {
+        "barangay": "Brookspoint",
+        "population": 2112,
+        "AstraZeneca": 789,
+        "Janssen": 541,
+        "Moderna": 123,
+        "Pfizer": 213,
+        "Sinovac": 12,
+        "SputnikV": 58
+      },
+      {
+        "barangay": "Brookside",
+        "population": 1804,
+        "AstraZeneca": 845,
+        "Janssen": 42,
+        "Moderna": 34,
+        "Pfizer": 65,
+        "Sinovac": 22,
+        "SputnikV": 1
+      },
+      {
+        "barangay": "Cabinet Hill-Teacher's Camp",
+        "population": 3478,
+        "AstraZeneca": 534,
+        "Janssen": 432,
+        "Moderna": 432,
+        "Pfizer": 542,
+        "Sinovac": 76,
+        "SputnikV": 54
+      },
+      {
+        "barangay": "Camp Allen",
+        "population": 2330,
+        "AstraZeneca": 647,
+        "Janssen": 85,
+        "Moderna": 43,
+        "Pfizer": 57,
+        "Sinovac": 74,
+        "SputnikV": 2
+      },
+      {
+        "barangay": "Camp 7",
+        "population": 13875,
+        "AstraZeneca": 1367,
+        "Janssen": 3385,
+        "Moderna": 5000,
+        "Pfizer": 2056,
+        "Sinovac": 3787,
+        "SputnikV": 67
+      },
+      {
+        "barangay": "Camp 8",
+        "population": 2638,
+        "AstraZeneca": 537,
+        "Janssen": 57,
+        "Moderna": 375,
+        "Pfizer": 354,
+        "Sinovac": 454,
+        "SputnikV": 78
+      },
+      {
+        "barangay": "Campo Filipino",
+        "population": 1298,
+        "AstraZeneca": 757,
+        "Janssen": 75,
+        "Moderna": 79,
+        "Pfizer": 25,
+        "Sinovac": 25,
+        "SputnikV": 25
+      },
+      {
+        "barangay": "City Camp Central",
+        "population": 1722,
+        "AstraZeneca": 573,
+        "Janssen": 68,
+        "Moderna": 76,
+        "Pfizer": 57,
+        "Sinovac": 97,
+        "SputnikV": 61
+      },
+      {
+        "barangay": "City Camp Proper",
+        "population": 1678,
+        "AstraZeneca": 67,
+        "Janssen": 978,
+        "Moderna": 678,
+        "Pfizer": 867,
+        "Sinovac": 85,
+        "SputnikV": 9
+      },
+      {
+        "barangay": "Country Club Village",
+        "population": 1762,
+        "AstraZeneca": 87,
+        "Janssen": 57,
+        "Moderna": 535,
+        "Pfizer": 125,
+        "Sinovac": 258,
+        "SputnikV": 25
+      },
+      {
+        "barangay": "Cresencia Village",
+        "population": 1671,
+        "AstraZeneca": 423,
+        "Janssen": 311,
+        "Moderna": 123,
+        "Pfizer": 32,
+        "Sinovac": 43,
+        "SputnikV": 2
+      },
+      {
+        "barangay": "Dagsian, Upper",
+        "population": 643,
+        "AstraZeneca": 20,
+        "Janssen": 95,
+        "Moderna": 65,
+        "Pfizer": 231,
+        "Sinovac": 239,
+        "SputnikV": 102
+      },
+      {
+        "barangay": "DPS Area",
+        "population": 953,
+        "AstraZeneca": 655,
+        "Janssen": 56,
+        "Moderna": 90,
+        "Pfizer": 95,
+        "Sinovac": 56,
+        "SputnikV": 98
+      },
+      {
+        "barangay": "Dizon Subdivision",
+        "population": 1882,
+        "AstraZeneca": 512,
+        "Janssen": 254,
+        "Moderna": 56,
+        "Pfizer": 398,
+        "Sinovac": 56,
+        "SputnikV": 126
+      },
+      {
+        "barangay": "Quirino Hill, East",
+        "population": 3497,
+        "AstraZeneca": 546,
+        "Janssen": 542,
+        "Moderna": 69,
+        "Pfizer": 987,
+        "Sinovac": 45,
+        "SputnikV": 4
+      },
+      {
+        "barangay": "Engineer's Hill",
+        "population": 1762,
+        "AstraZeneca": 65,
+        "Janssen": 642,
+        "Moderna": 48,
+        "Pfizer": 89,
+        "Sinovac": 89,
+        "SputnikV": 98
+      },
+      {
+        "barangay": "Fairview Village",
+        "population": 7984,
+        "AstraZeneca": 1258,
+        "Janssen": 895,
+        "Moderna": 4591,
+        "Pfizer": 3985,
+        "Sinovac": 456,
+        "SputnikV": 645
+      },
+      {
+        "barangay": "Fort del Pilar",
+        "population": 3753,
+        "AstraZeneca": 654,
+        "Janssen": 352,
+        "Moderna": 658,
+        "Pfizer": 651,
+        "Sinovac": 91,
+        "SputnikV": 15
+      },
+      {
+        "barangay": "General Luna, Upper",
+        "population": 1177,
+        "AstraZeneca": 98,
+        "Janssen": 651,
+        "Moderna": 52,
+        "Pfizer": 200,
+        "Sinovac": 100,
+        "SputnikV": 98
+      },
+      {
+        "barangay": "General Luna, Lower",
+        "population": 134,
+        "AstraZeneca": 50,
+        "Janssen": 30,
+        "Moderna": 36,
+        "Pfizer": 10,
+        "Sinovac": 15,
+        "SputnikV": 6
+      },
+      {
+        "barangay": "Gibraltar",
+        "population": 8043,
+        "AstraZeneca": 3985,
+        "Janssen": 1562,
+        "Moderna": 65,
+        "Pfizer": 569,
+        "Sinovac": 51,
+        "SputnikV": 65
+      },
+      {
+        "barangay": "Greenwater Village",
+        "population": 157,
+        "AstraZeneca": 56,
+        "Janssen": 5,
+        "Moderna": 1,
+        "Pfizer": 28,
+        "Sinovac": 14,
+        "SputnikV": 0
+      },
+      {
+        "barangay": "Guisad Central",
+        "population": 2499,
+        "AstraZeneca": 322,
+        "Janssen": 56,
+        "Moderna": 485,
+        "Pfizer": 1000,
+        "Sinovac": 65,
+        "SputnikV": 67
+      },
+      {
+        "barangay": "Guisad Sorong",
+        "population": 1677,
+        "AstraZeneca": 32,
+        "Janssen": 652,
+        "Moderna": 65,
+        "Pfizer": 9,
+        "Sinovac": 95,
+        "SputnikV": 5
+      },
+      {
+        "barangay": "Hillside",
+        "population": 1549,
+        "AstraZeneca": 95,
+        "Janssen": 59,
+        "Moderna": 15,
+        "Pfizer": 11,
+        "Sinovac": 12,
+        "SputnikV": 3
+      },
+      {
+        "barangay": "Holy Ghost Extension",
+        "population": 2928,
+        "AstraZeneca": 35,
+        "Janssen": 65,
+        "Moderna": 29,
+        "Pfizer": 26,
+        "Sinovac": 87,
+        "SputnikV": 10
+      },
+      {
+        "barangay": "Holy Ghost Proper",
+        "population": 2296,
+        "AstraZeneca": 1121,
+        "Janssen": 546,
+        "Moderna": 322,
+        "Pfizer": 54,
+        "Sinovac": 98,
+        "SputnikV": 99
+      },
+      {
+        "barangay": "Imelda Village",
+        "population": 1885,
+        "AstraZeneca": 65,
+        "Janssen": 65,
+        "Moderna": 21,
+        "Pfizer": 45,
+        "Sinovac": 45,
+        "SputnikV": 65
+      },
+      {
+        "barangay": "Irisan",
+        "population": 36562,
+        "AstraZeneca": 3298,
+        "Janssen": 8554,
+        "Moderna": 6125,
+        "Pfizer": 11123,
+        "Sinovac": 10261,
+        "SputnikV": 2332
+      },
+      {
+        "barangay": "Kayang Extension",
+        "population": 1066,
+        "AstraZeneca": 13,
+        "Janssen": 12,
+        "Moderna": 212,
+        "Pfizer": 123,
+        "Sinovac": 54,
+        "SputnikV": 56
+      },
+      {
+        "barangay": "Kias",
+        "population": 6374,
+        "AstraZeneca": 652,
+        "Janssen": 1000,
+        "Moderna": 3216,
+        "Pfizer": 652,
+        "Sinovac": 23,
+        "SputnikV": 75
+      },
+      {
+        "barangay": "Kagitingan",
+        "population": 189,
+        "AstraZeneca": 55,
+        "Janssen": 9,
+        "Moderna": 6,
+        "Pfizer": 5,
+        "Sinovac": 2,
+        "SputnikV": 5
+      },
+      {
+        "barangay": "Loakan Proper",
+        "population": 12006,
+        "AstraZeneca": 1236,
+        "Janssen": 2695,
+        "Moderna": 8871,
+        "Pfizer": 561,
+        "Sinovac": 565,
+        "SputnikV": 98
+      },
+      {
+        "barangay": "Lopez Jaena",
+        "population": 1140,
+        "AstraZeneca": 651,
+        "Janssen": 15,
+        "Moderna": 65,
+        "Pfizer": 47,
+        "Sinovac": 89,
+        "SputnikV": 9
+      },
+      {
+        "barangay": "Lourdes Subdivision Extension",
+        "population": 1451,
+        "AstraZeneca": 651,
+        "Janssen": 98,
+        "Moderna": 9,
+        "Pfizer": 85,
+        "Sinovac": 56,
+        "SputnikV": 56
+      },
+      {
+        "barangay": "Dagsian, Lower",
+        "population": 1521,
+        "AstraZeneca": 569,
+        "Janssen": 48,
+        "Moderna": 100,
+        "Pfizer": 200,
+        "Sinovac": 25,
+        "SputnikV": 8
+      },
+      {
+        "barangay": "Lourdes Subdivision, Lower",
+        "population": 422,
+        "AstraZeneca": 98,
+        "Janssen": 41,
+        "Moderna": 100,
+        "Pfizer": 200,
+        "Sinovac": 36,
+        "SputnikV": 85
+      },
+      {
+        "barangay": "Quirino Hill, Lower",
+        "population": 1998,
+        "AstraZeneca": 154,
+        "Janssen": 98,
+        "Moderna": 74,
+        "Pfizer": 77,
+        "Sinovac": 66,
+        "SputnikV": 58
+      },
+      {
+        "barangay": "General Emilio F. Aguinaldo",
+        "population": 1960,
+        "AstraZeneca": 200,
+        "Janssen": 100,
+        "Moderna": 83,
+        "Pfizer": 90,
+        "Sinovac": 67,
+        "SputnikV": 88
+      },
+      {
+        "barangay": "Lualhati",
+        "population": 1202,
+        "AstraZeneca": 100,
+        "Janssen": 100,
+        "Moderna": 89,
+        "Pfizer": 91,
+        "Sinovac": 68,
+        "SputnikV": 89
+      },
+      {
+        "barangay": "Lucnab",
+        "population": 2206,
+        "AstraZeneca": 45,
+        "Janssen": 100,
+        "Moderna": 81,
+        "Pfizer": 78,
+        "Sinovac": 61,
+        "SputnikV": 89
+      },
+      {
+        "barangay": "Magsaysay, Lower",
+        "population": 1135,
+        "AstraZeneca": 87,
+        "Janssen": 96,
+        "Moderna": 82,
+        "Pfizer": 79,
+        "Sinovac": 65,
+        "SputnikV": 81
+      },
+      {
+        "barangay": "Magsaysay Private Road",
+        "population": 927,
+        "AstraZeneca": 89,
+        "Janssen": 91,
+        "Moderna": 86,
+        "Pfizer": 51,
+        "Sinovac": 65,
+        "SputnikV": 81
+      },
+      {
+        "barangay": "Aurora Hill Proper",
+        "population": 728,
+        "AstraZeneca": 85,
+        "Janssen": 71,
+        "Moderna": 81,
+        "Pfizer": 91,
+        "Sinovac": 61,
+        "SputnikV": 21
+      },
+      {
+        "barangay": "Bal-Marcoville",
+        "population": 768,
+        "AstraZeneca": 81,
+        "Janssen": 89,
+        "Moderna": 54,
+        "Pfizer": 81,
+        "Sinovac": 61,
+        "SputnikV": 41
+      },
+      {
+        "barangay": "Quirino Hill, Middle",
+        "population": 2777,
+        "AstraZeneca": 89,
+        "Janssen": 90,
+        "Moderna": 51,
+        "Pfizer": 47,
+        "Sinovac": 86,
+        "SputnikV": 121
+      },
+      {
+        "barangay": "Military Cut-off",
+        "population": 1332,
+        "AstraZeneca": 85,
+        "Janssen": 89,
+        "Moderna": 121,
+        "Pfizer": 100,
+        "Sinovac": 290,
+        "SputnikV": 139
+      },
+      {
+        "barangay": "Mines View Park",
+        "population": 1517,
+        "AstraZeneca": 78,
+        "Janssen": 49,
+        "Moderna": 18,
+        "Pfizer": 190,
+        "Sinovac": 70,
+        "SputnikV": 39
+      },
+      {
+        "barangay": "Modern Site, East",
+        "population": 2458,
+        "AstraZeneca": 320,
+        "Janssen": 250,
+        "Moderna": 180,
+        "Pfizer": 300,
+        "Sinovac": 120,
+        "SputnikV": 128
+      },
+      {
+        "barangay": "Modern Site, West",
+        "population": 1300,
+        "AstraZeneca": 322,
+        "Janssen": 89,
+        "Moderna": 140,
+        "Pfizer": 120,
+        "Sinovac": 138,
+        "SputnikV": 127
+      },
+      {
+        "barangay": "Aurora Hill, North Central",
+        "population": 377,
+        "AstraZeneca": 14,
+        "Janssen": 24,
+        "Moderna": 45,
+        "Pfizer": 27,
+        "Sinovac": 17,
+        "SputnikV": 19
+      },
+      {
+        "barangay": "Sanitary Camp, North",
+        "population": 2636,
+        "AstraZeneca": 130,
+        "Janssen": 240,
+        "Moderna": 452,
+        "Pfizer": 272,
+        "Sinovac": 171,
+        "SputnikV": 195
+      },
+      {
+        "barangay": "Outlook Drive",
+        "population": 2237,
+        "AstraZeneca": 137,
+        "Janssen": 244,
+        "Moderna": 451,
+        "Pfizer": 279,
+        "Sinovac": 172,
+        "SputnikV": 194
+      },
+      {
+        "barangay": "Pinget",
+        "population": 7704,
+        "AstraZeneca": 649,
+        "Janssen": 598,
+        "Moderna": 233,
+        "Pfizer": 821,
+        "Sinovac": 629,
+        "SputnikV": 290
+      },
+      {
+        "barangay": "Pinsao Pilot Project",
+        "population": 4763,
+        "AstraZeneca": 893,
+        "Janssen": 24,
+        "Moderna": 434,
+        "Pfizer": 102,
+        "Sinovac": 23,
+        "SputnikV": 29
+      },
+      {
+        "barangay": "Pinsao Proper",
+        "population": 8361,
+        "AstraZeneca": 1093,
+        "Janssen": 874,
+        "Moderna": 988,
+        "Pfizer": 283,
+        "Sinovac": 896,
+        "SputnikV": 678
+      },
+      {
+        "barangay": "Poliwes",
+        "population": 2855,
+        "AstraZeneca": 100,
+        "Janssen": 23,
+        "Moderna": 445,
+        "Pfizer": 123,
+        "Sinovac": 113,
+        "SputnikV": 23
+      },
+      {
+        "barangay": "Pucsusan",
+        "population": 685,
+        "AstraZeneca": 100,
+        "Janssen": 22,
+        "Moderna": 24,
+        "Pfizer": 23,
+        "Sinovac": 13,
+        "SputnikV": 21
+      },
+      {
+        "barangay": "MRR-Queen Of Peace",
+        "population": 1614,
+        "AstraZeneca": 230,
+        "Janssen": 203,
+        "Moderna": 21,
+        "Pfizer": 33,
+        "Sinovac": 23,
+        "SputnikV": 26
+      },
+      {
+        "barangay": "Rock Quarry, Lower",
+        "population": 1646,
+        "AstraZeneca": 231,
+        "Janssen": 201,
+        "Moderna": 221,
+        "Pfizer": 39,
+        "Sinovac": 28,
+        "SputnikV": 43
+      },
+      {
+        "barangay": "Salud Mitra",
+        "population": 1344,
+        "AstraZeneca": 23,
+        "Janssen": 256,
+        "Moderna": 221,
+        "Pfizer": 33,
+        "Sinovac": 276,
+        "SputnikV": 23
+      },
+      {
+        "barangay": "San Antonio Village",
+        "population": 1396,
+        "AstraZeneca": 231,
+        "Janssen": 236,
+        "Moderna": 224,
+        "Pfizer": 31,
+        "Sinovac": 278,
+        "SputnikV": 22
+      },
+      {
+        "barangay": "San Luis Village",
+        "population": 8981,
+        "AstraZeneca": 2431,
+        "Janssen": 235,
+        "Moderna": 3235,
+        "Pfizer": 324,
+        "Sinovac": 1932,
+        "SputnikV": 1772
+      },
+      {
+        "barangay": "San Roque Village",
+        "population": 991,
+        "AstraZeneca": 123,
+        "Janssen": 35,
+        "Moderna": 32,
+        "Pfizer": 24,
+        "Sinovac": 32,
+        "SputnikV": 177
+      },
+      {
+        "barangay": "San Vicente",
+        "population": 5316,
+        "AstraZeneca": 1232,
+        "Janssen": 351,
+        "Moderna": 323,
+        "Pfizer": 242,
+        "Sinovac": 322,
+        "SputnikV": 1773
+      },
+      {
+        "barangay": "Santa Escolastica",
+        "population": 1794,
+        "AstraZeneca": 234,
+        "Janssen": 434,
+        "Moderna": 321,
+        "Pfizer": 241,
+        "Sinovac": 34,
+        "SputnikV": 73
+      },
+      {
+        "barangay": "Santo Rosario",
+        "population": 1909,
+        "AstraZeneca": 32,
+        "Janssen": 34,
+        "Moderna": 21,
+        "Pfizer": 41,
+        "Sinovac": 343,
+        "SputnikV": 723
+      },
+      {
+        "barangay": "Santo Tomas School Area",
+        "population": 1359,
+        "AstraZeneca": 322,
+        "Janssen": 31,
+        "Moderna": 25,
+        "Pfizer": 100,
+        "Sinovac": 120,
+        "SputnikV": 328
+      },
+      {
+        "barangay": "Santo Tomas Proper",
+        "population": 7071,
+        "AstraZeneca": 1293,
+        "Janssen": 1834,
+        "Moderna": 2384,
+        "Pfizer": 500,
+        "Sinovac": 345,
+        "SputnikV": 321
+      },
+      {
+        "barangay": "Scout Barrio",
+        "population": 1329,
+        "AstraZeneca": 203,
+        "Janssen": 434,
+        "Moderna": 123,
+        "Pfizer": 145,
+        "Sinovac": 67,
+        "SputnikV": 98
+      },
+      {
+        "barangay": "Session Road Area",
+        "population": 125,
+        "AstraZeneca": 20,
+        "Janssen": 34,
+        "Moderna": 23,
+        "Pfizer": 45,
+        "Sinovac": 7,
+        "SputnikV": 8
+      },
+      {
+        "barangay": "Slaughter House Area",
+        "population": 1952,
+        "AstraZeneca": 220,
+        "Janssen": 34,
+        "Moderna": 23,
+        "Pfizer": 45,
+        "Sinovac": 73,
+        "SputnikV": 82
+      },
+      {
+        "barangay": "Sanitary Camp, South",
+        "population": 2053,
+        "AstraZeneca": 220,
+        "Janssen": 323,
+        "Moderna": 230,
+        "Pfizer": 452,
+        "Sinovac": 71,
+        "SputnikV": 83
+      },
+      {
+        "barangay": "Saint Joseph Village",
+        "population": 3951,
+        "AstraZeneca": 1232,
+        "Janssen": 900,
+        "Moderna": 330,
+        "Pfizer": 451,
+        "Sinovac": 712,
+        "SputnikV": 83
+      },
+      {
+        "barangay": "Teodora Alonzo",
+        "population": 1125,
+        "AstraZeneca": 234,
+        "Janssen": 123,
+        "Moderna": 38,
+        "Pfizer": 51,
+        "Sinovac": 12,
+        "SputnikV": 83
+      },
+      {
+        "barangay": "Rock Quarry, Upper",
+        "population": 1539,
+        "AstraZeneca": 283,
+        "Janssen": 121,
+        "Moderna": 22,
+        "Pfizer": 67,
+        "Sinovac": 121,
+        "SputnikV": 82
+      },
+      {
+        "barangay": "Trancoville",
+        "population": 2705,
+        "AstraZeneca": 1255,
+        "Janssen": 122,
+        "Moderna": 322,
+        "Pfizer": 61,
+        "Sinovac": 124,
+        "SputnikV": 87
+      },
+      {
+        "barangay": "Victoria Village",
+        "population": 2878,
+        "AstraZeneca": 873,
+        "Janssen": 543,
+        "Moderna": 328,
+        "Pfizer": 244,
+        "Sinovac": 173,
+        "SputnikV": 99
+      },
+      {
+        "barangay": "Quirino Hill, West",
+        "population": 1792,
+        "AstraZeneca": 433,
+        "Janssen": 276,
+        "Moderna": 320,
+        "Pfizer": 246,
+        "Sinovac": 183,
+        "SputnikV": 67
+      },
+      {
+        "barangay": "Andres Bonifacio",
+        "population": 1086,
+        "AstraZeneca": 273,
+        "Janssen": 177,
+        "Moderna": 239,
+        "Pfizer": 499,
+        "Sinovac": 83,
+        "SputnikV": 61
+      },
+      {
+        "barangay": "Legarda-Burnham-Kisad",
+        "population": 711,
+        "AstraZeneca": 283,
+        "Janssen": 77,
+        "Moderna": 39,
+        "Pfizer": 13,
+        "Sinovac": 17,
+        "SputnikV": 11
+      },
+      {
+        "barangay": "Imelda R. Marcos",
+        "population": 1091,
+        "AstraZeneca": 373,
+        "Janssen": 87,
+        "Moderna": 19,
+        "Pfizer": 25,
+        "Sinovac": 47,
+        "SputnikV": 61
+      },
+      {
+        "barangay": "Lourdes Subdivision, Proper",
+        "population": 657,
+        "AstraZeneca": 100,
+        "Janssen": 81,
+        "Moderna": 29,
+        "Pfizer": 35,
+        "Sinovac": 67,
+        "SputnikV": 81
+      },
+      {
+        "barangay": "Quirino-Magsaysay, Upper",
+        "population": 2243,
+        "AstraZeneca": 732,
+        "Janssen": 123,
+        "Moderna": 329,
+        "Pfizer": 209,
+        "Sinovac": 1,
+        "SputnikV": 45
+      },
+      {
+        "barangay": "A. Bonifacio-Caguioa-Rimando",
+        "population": 685,
+        "AstraZeneca": 123,
+        "Janssen": 100,
+        "Moderna": 129,
+        "Pfizer": 109,
+        "Sinovac": 125,
+        "SputnikV": 41
+      },
+      {
+        "barangay": "Ambiong",
+        "population": 3321,
+        "AstraZeneca": 198,
+        "Janssen": 343,
+        "Moderna": 684,
+        "Pfizer": 129,
+        "Sinovac": 483,
+        "SputnikV": 188
+      },
+      {
+        "barangay": "Aurora Hill, South Central",
+        "population": 1053,
+        "AstraZeneca": 191,
+        "Janssen": 341,
+        "Moderna": 98,
+        "Pfizer": 48,
+        "Sinovac": 33,
+        "SputnikV": 88
+      },
+      {
+        "barangay": "Abanao-Zandueta-Kayong-Chugum-Otek",
+        "population": 666,
+        "AstraZeneca": 100,
+        "Janssen": 61,
+        "Moderna": 89,
+        "Pfizer": 41,
+        "Sinovac": 87,
+        "SputnikV": 58
+      },
+      {
+        "barangay": "Bagong Lipunan",
+        "population": 28,
+        "AstraZeneca": 10,
+        "Janssen": 0,
+        "Moderna": 3,
+        "Pfizer": 6,
+        "Sinovac": 7,
+        "SputnikV": 0
+      },
+      {
+        "barangay": "BGH Compound",
+        "population": 1860,
+        "AstraZeneca": 283,
+        "Janssen": 10,
+        "Moderna": 345,
+        "Pfizer": 62,
+        "Sinovac": 72,
+        "SputnikV": 70
+      },
+      {
+        "barangay": "Bayan Park Village",
+        "population": 644,
+        "AstraZeneca": 120,
+        "Janssen": 40,
+        "Moderna": 32,
+        "Pfizer": 62,
+        "Sinovac": 73,
+        "SputnikV": 60
+      },
+      {
+        "barangay": "Camdas Subdivision",
+        "population": 1547,
+        "AstraZeneca": 283,
+        "Janssen": 401,
+        "Moderna": 321,
+        "Pfizer": 78,
+        "Sinovac": 98,
+        "SputnikV": 32
+      },
+      {
+        "barangay": "Palma-Urbano",
+        "population": 1089,
+        "AstraZeneca": 281,
+        "Janssen": 200,
+        "Moderna": 312,
+        "Pfizer": 33,
+        "Sinovac": 98,
+        "SputnikV": 68
+      },
+      {
+        "barangay": "Dominican Hill-Mirador",
+        "population": 4818,
+        "AstraZeneca": 983,
+        "Janssen": 813,
+        "Moderna": 283,
+        "Pfizer": 451,
+        "Sinovac": 320,
+        "SputnikV": 143
+      },
+      {
+        "barangay": "Alfonso Tabora",
+        "population": 1524,
+        "AstraZeneca": 123,
+        "Janssen": 343,
+        "Moderna": 383,
+        "Pfizer": 288,
+        "Sinovac": 34,
+        "SputnikV": 43
+      },
+      {
+        "barangay": "Dontogan",
+        "population": 6366,
+        "AstraZeneca": 1233,
+        "Janssen": 3433,
+        "Moderna": 349,
+        "Pfizer": 98,
+        "Sinovac": 232,
+        "SputnikV": 127
+      },
+      {
+        "barangay": "Ferdinand",
+        "population": 1775,
+        "AstraZeneca": 103,
+        "Janssen": 95,
+        "Moderna": 49,
+        "Pfizer": 18,
+        "Sinovac": 34,
+        "SputnikV": 97
+      },
+      {
+        "barangay": "Happy Homes",
+        "population": 1712,
+        "AstraZeneca": 101,
+        "Janssen": 91,
+        "Moderna": 74,
+        "Pfizer": 87,
+        "Sinovac": 99,
+        "SputnikV": 12
+      },
+      {
+        "barangay": "Harrison-Claudio Carantes",
+        "population": 30,
+        "AstraZeneca": 2,
+        "Janssen": 7,
+        "Moderna": 10,
+        "Pfizer": 2,
+        "Sinovac": 4,
+        "SputnikV": 6
+      },
+      {
+        "barangay": "Honeymoon",
+        "population": 3308,
+        "AstraZeneca": 223,
+        "Janssen": 72,
+        "Moderna": 102,
+        "Pfizer": 223,
+        "Sinovac": 481,
+        "SputnikV": 111
+      },
+      {
+        "barangay": "Kabayanihan",
+        "population": 104,
+        "AstraZeneca": 23,
+        "Janssen": 32,
+        "Moderna": 12,
+        "Pfizer": 23,
+        "Sinovac": 1,
+        "SputnikV": 31
+      },
+      {
+        "barangay": "Kayang-Hilltop",
+        "population": 443,
+        "AstraZeneca": 12,
+        "Janssen": 32,
+        "Moderna": 72,
+        "Pfizer": 43,
+        "Sinovac": 13,
+        "SputnikV": 61
+      },
+      {
+        "barangay": "Gabriela Silang",
+        "population": 2880,
+        "AstraZeneca": 383,
+        "Janssen": 217,
+        "Moderna": 173,
+        "Pfizer": 112,
+        "Sinovac": 173,
+        "SputnikV": 466
+      },
+      {
+        "barangay": "Liwanag-Loakan",
+        "population": 4841,
+        "AstraZeneca": 381,
+        "Janssen": 281,
+        "Moderna": 473,
+        "Pfizer": 698,
+        "Sinovac": 373,
+        "SputnikV": 766
+      },
+      {
+        "barangay": "Malcolm Square-Perfecto",
+        "population": 63,
+        "AstraZeneca": 12,
+        "Janssen": 10,
+        "Moderna": 33,
+        "Pfizer": 8,
+        "Sinovac": 2,
+        "SputnikV": 1
+      },
+      {
+        "barangay": "Manuel A. Roxas",
+        "population": 761,
+        "AstraZeneca": 122,
+        "Janssen": 101,
+        "Moderna": 13,
+        "Pfizer": 81,
+        "Sinovac": 26,
+        "SputnikV": 10
+      },
+      {
+        "barangay": "Padre Burgos",
+        "population": 2851,
+        "AstraZeneca": 652,
+        "Janssen": 144,
+        "Moderna": 132,
+        "Pfizer": 166,
+        "Sinovac": 288,
+        "SputnikV": 344
+      },
+      {
+        "barangay": "Quezon Hill, Upper",
+        "population": 2646,
+        "AstraZeneca": 651,
+        "Janssen": 123,
+        "Moderna": 32,
+        "Pfizer": 66,
+        "Sinovac": 89,
+        "SputnikV": 92
+      },
+      {
+        "barangay": "Rock Quarry, Middle",
+        "population": 1650,
+        "AstraZeneca": 141,
+        "Janssen": 232,
+        "Moderna": 322,
+        "Pfizer": 99,
+        "Sinovac": 89,
+        "SputnikV": 92
+      },
+      {
+        "barangay": "Phil-Am",
+        "population": 517,
+        "AstraZeneca": 67,
+        "Janssen": 32,
+        "Moderna": 22,
+        "Pfizer": 21,
+        "Sinovac": 56,
+        "SputnikV": 23
+      },
+      {
+        "barangay": "Quezon Hill Proper",
+        "population": 1375,
+        "AstraZeneca": 142,
+        "Janssen": 132,
+        "Moderna": 222,
+        "Pfizer": 183,
+        "Sinovac": 78,
+        "SputnikV": 772
+      },
+      {
+        "barangay": "Middle Quezon Hill Subdivision",
+        "population": 3565,
+        "AstraZeneca": 246,
+        "Janssen": 345,
+        "Moderna": 688,
+        "Pfizer": 234,
+        "Sinovac": 255,
+        "SputnikV": 325
+      },
+      {
+        "barangay": "Rizal Monument Area",
+        "population": 195,
+        "AstraZeneca": 46,
+        "Janssen": 45,
+        "Moderna": 14,
+        "Pfizer": 20,
+        "Sinovac": 29,
+        "SputnikV": 21
+      },
+      {
+        "barangay": "SLU-SVP Housing Village",
+        "population": 2393,
+        "AstraZeneca": 283,
+        "Janssen": 983,
+        "Moderna": 156,
+        "Pfizer": 201,
+        "Sinovac": 22,
+        "SputnikV": 203
+      },
+      {
+        "barangay": "South Drive",
+        "population": 564,
+        "AstraZeneca": 128,
+        "Janssen": 98,
+        "Moderna": 56,
+        "Pfizer": 81,
+        "Sinovac": 42,
+        "SputnikV": 33
+      },
+      {
+        "barangay": "Magsaysay, Upper",
+        "population": 68,
+        "AstraZeneca": 12,
+        "Janssen": 18,
+        "Moderna": 16,
+        "Pfizer": 11,
+        "Sinovac": 12,
+        "SputnikV": 3
+      },
+      {
+        "barangay": "Market Subdivision, Upper",
+        "population": 1165,
+        "AstraZeneca": 190,
+        "Janssen": 283,
+        "Moderna": 598,
+        "Pfizer": 126,
+        "Sinovac": 89,
+        "SputnikV": 26
+      },
+      {
+        "barangay": "Padre Zamora",
+        "population": 2390,
+        "AstraZeneca": 293,
+        "Janssen": 198,
+        "Moderna": 598,
+        "Pfizer": 382,
+        "Sinovac": 193,
+        "SputnikV": 290
+      }
+    ]
+  

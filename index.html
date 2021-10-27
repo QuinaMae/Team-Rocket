@@ -5,6 +5,7 @@
 	<title>BAGUIO UPDATES</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 	<meta name="authors" content="co-authored by:
 																Jerick Benavidez,
 																Sean Calingangan,
@@ -15,31 +16,37 @@
 	<link rel="stylesheet" href="../style/style.css">
 	<link rel="stylesheet" href="../style/navbar.css">
 	<link rel="icon" href="../images/Others/Logo.png" type="image/png">
-
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script> 
 </head>
+
 <body>
 	<header>
-			<nav>
-	  			<div class="team-name">Team Rocket</div>
-	  			<ul class="menu-bar" id="menu-bar">
-	  				<li class="menu-item"><a href="index.html"> Home </a></li>
-	  				<li class="menu-item"><a href="about-covid19.html">About Covid-19</a></li>
-	  				<li class="menu-item"><a href="vaccine.html">Vaccination </a></li>
-	  				<li class="menu-item"><a href="faqs.html"> Faqs</a></li>
-	  				<li class="menu-item"><a href="about-us.html"> About us </a></li>
-	  				<li class="menu-item"><a href="contactpage.html"> Contact Us </a></li>
-	  			</ul>
-	  	</nav>
+		<nav>
+	  		<div class="team-name">Team Rocket</div>
+	  		<ul class="menu-bar" id="menu-bar">
+	  			<li class="menu-item"><a href="index.html"> Home </a></li>
+	  			<li class="menu-item"><a href="about-covid19.html">About Covid-19</a></li>
+	  			<li class="menu-item"><a href="vaccine.html">Vaccination </a></li>
+	  			<li class="menu-item"><a href="faqs.html"> Faqs</a></li>
+	  			<li class="menu-item"><a href="about-us.html"> About us </a></li>
+	  			<li class="menu-item"><a href="contactpage.html"> Contact Us </a></li>
+	  		</ul>
+	    </nav>
 	</header>
+<!-- This class will be called in the jscript to be able to show data for the vaccine counts-->
+	<div class="brgy-vaxx">
+		<h2>Baguio City Vaccination Status</h2>
+			<p>The list of barangays will show you the quantity of vaccines availed.</p>
+				<select class="brgy-dropdown" id="brgy-dropdown" onchange="show(this)">
+					<option value="">-- Barangay List --</option>
+				</select>
 
-		<h2> Statistics </h2>
-		<section id = "covid-stats">
-				 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-				 <div class="elfsight-app-a3f86c37-9334-4c44-8357-9a41e63bd118"></div>
-		</section>
+		<!-- Contains the result for the selected barangay-->
+		<div class="res-container">
+			<p class="res" id="res"></p>
+		</div>
+	</div>
 
-		<!-- This is where announcements are uploaded -->
+		<!-- This is where the general infomration (annoucements, events, and downloadbles) are uploaded -->
 			<div class="left-column">
 					<h2> Announcements </h2>
 							<div class="card">
@@ -139,7 +146,7 @@
 
 							<div class="card">
 								<h4><a href="https://www.baguio.gov.ph/content/new-variant-cases-baguio-now-162">NEW VARIANT CASES IN BAGUIO NOW 162</a></h4>
-									 <small  class = "date">03 September 2021</small>
+								<small  class = "date">03 September 2021</small>
 											<p>
 													A total of 162 new variant cases of the Coronavirus disease (COVID-19) have been detected in the city, including the six Delta variant patients as of September 2.<br><br>
 													Mayor Benjamin Magalong said there were 107 with the Alpha variant, 49 with Beta and six Delta.<br><br>
@@ -151,25 +158,29 @@
 													Magalong who waged an early preparation in the city for a worst-case scenario said the city has been keeping at its contingency action plan which includes border restrictions, expansion of isolation and quarantine facilities and building buffer stocks of medicines, oxygen and other hospital essentials. – Aileen P. Refuerzo </p>
 							</div>
 					
-								<h2>Events</h2>
-									<div class="card">
+					<h2>Events</h2>
+							<div class="card">
 										<p> No events yet </p>
-									</div>
+							</div>
 
-								<h2>Downloadables</h2>
-									<div class="card">
-										<p><a href="https://www.gov.nt.ca/covid-19/sites/covid/files/resources/covid-19-self-monitoring-form.pdf">Self-Monitoring Sheet (Option 1)</a></p>
-										<p><a href="https://asaa.org/wp-content/uploads/COVID-19-Monitoring-Form.pdf">Self-Monitoring Sheet (Option 2)</a></p>
-										<p><a href="https://www.deschutes.org/sites/default/files/fileattachments/health_services/page/13161/charts_fillable.pdf">Self-Monitoring Sheet (Option 3)</a></p>
+					<h2>Downloadables</h2>
+							<div class="card">
+								<p><a href="https://www.gov.nt.ca/covid-19/sites/covid/files/resources/covid-19-self-monitoring-form.pdf">Self-Monitoring Sheet (Option 1)</a></p>
+								<p><a href="https://asaa.org/wp-content/uploads/COVID-19-Monitoring-Form.pdf">Self-Monitoring Sheet (Option 2)</a></p>
+								<p><a href="https://www.deschutes.org/sites/default/files/fileattachments/health_services/page/13161/charts_fillable.pdf">Self-Monitoring Sheet (Option 3)</a></p>
 			
-										<p id="disclaimer"><b>DISCLAIMER:</b> These forms were taken from the Internet.There is no need for you to download this if you are confined in a hospital as the staffs will monitor your vitals for you.</p>
-									</div>				
+								<p id="disclaimer"><b>DISCLAIMER:</b> These forms were taken from the Internet.There is no need for you to download this if you are confined in a hospital as the staffs will monitor your vitals for you.</p>
+							</div>
+					<br><br>				
 			</div>
-
-		<footer class="footer">
-				<p>Copyright &copy; 2021 Team Rocket</p>
-		</footer>
-
+	<!--footer-->
+	<footer class="footer">
+		<p>Copyright &copy; 2021 Team Rocket</p>
+	</footer>
+	
+	<!--Javascript reference-->
+	<script type="text/javascript" src="scripts/main.js"></script>
+	<script type="text/javascript" src="scripts/data.json"></script>
+		
 </body>
-
 </html>

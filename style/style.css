@@ -35,17 +35,18 @@ h2 {
   padding-left: 15px;
 }
 
-/* iframe */
-#covid-stats{
-  color: transparent;
-  background-color: #fcfcfc;
-  margin:0;
- }
+.brgy-vaxx p {
+  padding: 8px 20px;
+}
 
+.brgy-dropdown {
+  margin: 0px 20px;
+}
 .date{
   padding-top:3px;
   font-style: italic;
 }
+
 .left-column{
   float:left;
   width: 100%;
@@ -56,7 +57,6 @@ h2 {
 a{
   color: #165ba2;
 }
-
 
 .card{
   border: 1.5px solid #e0dcdc;

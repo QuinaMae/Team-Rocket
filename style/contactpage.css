@@ -1,139 +1,136 @@
 *{
-	  font-family: Arial, Helvetica,sans-serif;
-}
-nav{
-	margin-top: -5px;
+	font-family: Arial, Helvetica,sans-serif;
 }
 
 body {
-	color: black;
-	background: white;
+  color: black;
+  background: white;
 }
 
 img {
-	width: 100%;
+  width: 100%;
 }
 
 table {
-	height: 1px;
-	empty-cells: show;
-	margin-left: auto;
-	margin-right: auto;
-	margin-bottom: 50px;
+  height: 1px;
+  empty-cells: show;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
 }
 
 td {
-	padding: 30px;
+  padding: 30px;
 }
 h1{
-	letter-spacing: 1px;
+  letter-spacing: 1px;
 }
 .official{
-	padding-top: 20px;
-	margin-bottom: -20px;
-	font-weight: lighter;
+  padding-top: 20px;
+  margin-bottom: -20px;
+  font-weight: lighter;
 }
 .official a {
-	background: transparent;
-	color: white;
-	font-size: 20px;
-	text-decoration: none;
-	text-align: center;
+  background: transparent;
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  text-align: center;
 }
 
 
 a.effect:after{
-	content: '';
-	position: absolute;
-	margin-left: 41%;
-	left: 0;
-	margin-top: 10px;
-	display: inline-block;
-	height: 1em;
-	width: 18%;
-	border-bottom: 1px solid;
-	opacity: 0;
-	transition: opacity 0.35s, transform 0.35s;
-	transform: scale(0,1);
+  content: '';
+  position: absolute;
+  margin-left: 41%;
+  left: 0;
+  margin-top: 10px;
+  display: inline-block;
+  height: 1em;
+  width: 18%;
+  border-bottom: 1px solid;
+  opacity: 0;
+  transition: opacity 0.35s, transform 0.35s;
+  transform: scale(0,1);
 }
 
 a.effect:hover::after{
-	opacity: 1;
-	transform: scale(1);
+  opacity: 1;
+  transform: scale(1);
 }
 
 
 #banner {
-	text-align: center;
-	padding: 50px 0px;
-	color: white;
-	background: rgb(0,34,54);
-  background: linear-gradient(90deg, rgba(0,34,54,1) 0%, rgba(117,197,194,1) 100%);
-	font-size: 20px;
+  text-align: center;
+  padding: 50px 0px;
+  color: white;
+  background: rgb(0,34,54);
+background: linear-gradient(90deg, rgba(0,34,54,1) 0%, rgba(117,197,194,1) 100%);
+  font-size: 20px;
 }
 
 .row-name{
-	font-weight: bolder;
-	font-size: 24px;
-	text-align: center;
+  font-weight: bolder;
+  font-size: 24px;
+  text-align: center;
 }
 
 .hospital-name{
-	font-weight: bold;
-	font-size: 17px;
-	text-align: justify;
+  font-weight: bold;
+  font-size: 17px;
+  text-align: justify;
 }
 
 .address{
-	font-style: italic;
-	font-size: 15px;
-	text-align: center;
+  font-style: italic;
+  font-size: 15px;
+  text-align: center;
 }
 
 p{
-	margin-top: 20px;
-	padding:5px;
+  margin-top: 20px;
+  padding:5px;
 }
 
 .hospital{
-	height: 100%;
+  height: 100%;
 }
 
 .hospital:hover{
-	color: white;
-	background-color: transparent;
-	transition: all .3s ease;
-	background-size: cover;
+  color: white;
+  background-color: transparent;
+  transition: all .3s ease;
+  background-size: cover;
 }
 
 #slu-hospital:hover{
-	background-image: url("../images/Buildings/SLU-Hospital.jpg");
+  background-image: url("../images/Buildings/SLU-Hospital.jpg");
 }
 
 #doh:hover{
-	background-image: url("../images/Buildings/DOH.jpg");
+  background-image: url("../images/Buildings/DOH.jpg");
 }
 
 #notre-dame:hover{
-	background-image: url("../images/Buildings/Notre-Dame.jpg");
+  background-image: url("../images/Buildings/Notre-Dame.jpg");
 }
 
 #baguio-triage:hover{
-	background-image: url("../images/Buildings/Health-Triage.jpg");
+  background-image: url("../images/Buildings/Health-Triage.jpg");
 }
 
 #hso:hover{
-	background-image: url("../images/Buildings/HSO.jpg");
+  background-image: url("../images/Buildings/HSO.jpg");
 }
 
 #bgh:hover{
-	background-image: url("../images/Buildings/BGH.jpg");
+  background-image: url("../images/Buildings/BGH.jpg");
 }
 
 #pines-city:hover{
-	background-image: url("../images/Buildings/Pines-City.jpg");
+  background-image: url("../images/Buildings/Pines-City.jpg");
 }
 
 #fort-del-pilar:hover{
-	background-image: url("../images/Buildings/Fort-Del-Pilar.jpg");
+  background-image: url("../images/Buildings/Fort-Del-Pilar.jpg");
 }
